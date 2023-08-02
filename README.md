@@ -18,11 +18,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Roles
+- Departments
+- Teams
+- Agents
+- Users
+- SLA
+- Help Topic
 
 <h2>Configuration Steps</h2>
 
@@ -69,13 +71,28 @@ Here, we have created a "systems administrators" departments with default settin
 <p>Now we will add agents. Agents can be given different levels of access when adding them. <br/> To add a new agent go to Admin Panel--> Agents--> Agents--> Add New Agent. </p>
 <br/>
 <br/>
+
 <img src="https://github.com/d-mccardell/post-install-config/assets/116754993/f5972e91-8622-4bd7-a225-66148ab85612" height="50%" width="50%"/>
 <p>Make sure to assign a primary department to the new agent.</p>
 <br/>
 <br/>
+
 <img src="https://github.com/d-mccardell/post-install-config/assets/116754993/fd87f491-aa18-46f5-9ef1-2b8837fa7207" height="50%" width="50%"/>
 <p>Next we will add users. Users are the ticket owners of the tickets in the help desk.
 <br/>
 To add users got to Agent Panel--> Users--> User Directory--> Add User</p>
+<br/>
+<br/>
+
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/6dff8083-2300-457d-b90c-894c00998523" height="50%" width="50%"/>
+<p>Now we will add SLA or Service Level Agreements.The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.<br/>
+To add a SLA go to Admin Panel--> Manage--> SLA--> Add New SLA Plan</p>
+<br/>
+<br/>
+
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/00a5ea8c-9bc1-4f0c-8918-795a4948ed48" height="50%" width="50%"/>
+<p>Finally, we will add Help Topics. Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket.
+<br/>
+To add Help Topics simply got to Admin Panel--> Manage--> Help topics--> Add New Help Topic</p>
 
 
