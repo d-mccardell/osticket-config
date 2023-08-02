@@ -45,10 +45,10 @@ In the admin panel you can create roles. Roles are the permissions assigned to a
 <br />
 <br/>
 
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/ffe9502b-fd3c-440d-a39b-96f1d5d8eb11" height="50%" width="50%"/>
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/ba1be657-f46b-457b-829c-348a8680fa53" height="50%" width="50%"/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In this case, we will create a role named "Supreme Admin" with complete access and permissions to all tickets, tasks, and knowledgebase.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br /># post-install-config
+<br />
+<br/>
