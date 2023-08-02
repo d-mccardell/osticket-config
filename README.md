@@ -52,3 +52,30 @@ In this case, we will create a role named "Supreme Admin" with complete access a
 </p>
 <br />
 <br/>
+
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/11300ec7-0b58-4223-8632-56f0e881eac8" height="50%" width="50%"/>
+<p>Next, we wil add departments. Since tickets can be routed to different departments, each department can have a different set of settings such as SLA and ticket assignment. <br/>
+Here, we have created a "systems administrators" departments with default settings.
+<br/> To add a department go to Admin Panel--> Agents--> Departments--> Add New Department.</p>
+<br/>
+<br/>
+
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/25d21caa-c836-4110-9bcf-d52992f1d42a" height="50%" width="50%"/>
+<p>Next, add a team. Teams allow you to pull agents from different departments to handle certain tickets. In this instance, we have created a Level II Support team. <br/> To add a team go to Admin Panel--> Agents--> Teams--> Add New Team</p>
+<br/>
+<br/>
+
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/64bd72e4-1ff5-44a7-a5c0-a585f280513c" height="50%" width="50%"/>
+<p>Now we will add agents. Agents can be given different levels of access when adding them. <br/> To add a new agent go to Admin Panel--> Agents--> Agents--> Add New Agent. </p>
+<br/>
+<br/>
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/f5972e91-8622-4bd7-a225-66148ab85612" height="50%" width="50%"/>
+<p>Make sure to assign a primary department to the new agent.</p>
+<br/>
+<br/>
+<img src="https://github.com/d-mccardell/post-install-config/assets/116754993/fd87f491-aa18-46f5-9ef1-2b8837fa7207" height="50%" width="50%"/>
+<p>Next we will add users. Users are the ticket owners of the tickets in the help desk.
+<br/>
+To add users got to Agent Panel--> Users--> User Directory--> Add User</p>
+
+
